@@ -1,0 +1,9 @@
+<svg width="35" height="35" viewBox="0 0 35 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="arrow">
+<g id="Ellipse 5">
+<circle cx="17.5" cy="17.5" r="17.5" fill="white" fill-opacity="0.54"/>
+<circle cx="17.5" cy="17.5" r="20" stroke="#FCFAFA" stroke-opacity="0.73" stroke-width="8"/>
+</g>
+<path id="Vector" d="M28 21L17.5 10L7 21" stroke="#615D5D" stroke-opacity="0.92" stroke-width="5" stroke-linecap="square" stroke-linejoin="round"/>
+</g>
+</svg>
